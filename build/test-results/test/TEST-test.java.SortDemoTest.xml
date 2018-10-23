@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.SortDemoTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2018-10-22T06:02:34" hostname="my-PC" time="0.016">
+  <properties/>
+  <testcase name="sortMergeSortUnsortedList" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="NonIntegerValue" classname="test.java.SortDemoTest" time="0.001"/>
+  <testcase name="nullHeapSortList" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="negativeArraySize" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="sortInsertionSortUnsortedList" classname="test.java.SortDemoTest" time="0.001"/>
+  <testcase name="sortQuickSortUnsortedList" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="nullQuickSortList" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="nullSelectionSortList" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="sortQuickSortSortedList" classname="test.java.SortDemoTest" time="0.001"/>
+  <testcase name="SameNumber" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="sortHeapSortSortedList" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="NoNumber" classname="test.java.SortDemoTest" time="0.001"/>
+  <testcase name="nullInsertionSortList" classname="test.java.SortDemoTest" time="0.004"/>
+  <testcase name="nullMergeSortList" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="NoSuchElem" classname="test.java.SortDemoTest" time="0.001"/>
+  <testcase name="sortHeapSortUnsortedList" classname="test.java.SortDemoTest" time="0.001"/>
+  <testcase name="sortSelectionSortUnsortedList" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="sortQuickSortOddElementsList" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="testNumber" classname="test.java.SortDemoTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
